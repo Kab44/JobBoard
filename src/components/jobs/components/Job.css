@@ -1,0 +1,35 @@
+.job {
+    border-style: solid;
+    border-width: 5px;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.red {
+    border-color: red;
+}
+
+.green {
+    border-color: green;
+}
+
+.yellow {
+    border-color: yellow;
+}
+
+.blue {
+    border-color: blue;
+}
+
+.salmon {
+    border-color: salmon;
+}
+
+.title {
+    margin: 0;
+}

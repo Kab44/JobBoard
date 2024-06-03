@@ -1,0 +1,13 @@
+.jobs-container {
+    flex-flow: row wrap;
+    display: flex;
+    flex-direction: row;
+    margin: 100px auto 10px auto;
+    justify-content: center;
+}
+
+@media only screen and (min-width: 800px) {
+    .jobs-container {
+      max-width: 760px;
+    }
+  }
